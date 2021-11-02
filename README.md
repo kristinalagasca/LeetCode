@@ -1,7 +1,10 @@
 # Kristina's LeetCode Solutions
-This repository will contain all of the LeetCode solutions
+This repository will contain all the LeetCode solutions
 that I have created when facing the challenges presented
-to me. It might also contain some notes that I have taken
+to me. The problems will be written in Python programming.
+(I might add solutions written in other languages as well,
+but that would most likely happen in the far future.)
+It might also contain some notes that I have taken
 in the process since I am re-learning data structures
 and algorithms from scratch.
 
