@@ -1,4 +1,4 @@
-# Kristina's LeetCode Solutions
+# Kristina's LeetCode|BinarySearch Solutions
 This repository will contain all the LeetCode/binarysearch solutions
 that I have created when facing the challenges presented
 to me. The problems will be written in Python programming.
